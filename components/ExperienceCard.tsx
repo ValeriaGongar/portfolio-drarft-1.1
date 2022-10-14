@@ -28,9 +28,16 @@ function ExperienceCard({}: Props) {
         <h4 className="text-4xl font-light">CEO of MOTvS</h4>
         <p className="font-bold text-2xl mt-1">MOTvS</p>
         <div className="flex space-x-2 my-2">
-          <img className="h-7 w-7 rounded-full" src="/img/react.svg" />
-          <img className="h-7 w-7 rounded-full" src="/img/ethernet-solid.svg" />
-          <img className="h-7 w-7 rounded-full" src="/img/square-js.svg" />
+          <img className="h-7 w-7 rounded-full" src="/img/icons8-vlc-40.png" />
+          <img className="h-7 w-7 rounded-full" src="/img/icons8-cr2-40.png" />
+          <img
+            className="h-7 w-7 rounded-full"
+            src="/img/icons8-arduino-40.png"
+          />
+          <img
+            className="h-7 w-7 rounded-full"
+            src="img/icons8-after-effects-40.png"
+          />
           {/* tecnologia */}
           {/* tecnologia */}
           {/* tecnologia */}
